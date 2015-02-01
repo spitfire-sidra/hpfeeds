@@ -12,7 +12,6 @@ import socket
 import hashlib
 import logging
 import time
-import threading
 import ssl
 
 
